@@ -30,6 +30,17 @@ I'm a full stack dev with a passion for building things, based in Austin, Texas 
 <p align='center'>
   <img src='https://skillicons.dev/icons?i=js,css,aws,express,next,react,ts,mongodb,tailwind,git,mysql,postgres,nodejs,nginx,supabase,' />
 </p>
+
+---
+
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=tgharbert&theme=nord&show_icons=true' height='250px' width='60%'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tgharbert&size_weight=0.5&count_weight=0.5&theme=nord'  height='250px' width='35%' />
+</p>
+
+---
+
+<p align='right'><a href='#back-to-top'>back to top</a></p>
 <!--
 **tgharbert/tgharbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
