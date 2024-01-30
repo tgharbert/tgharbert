@@ -1,5 +1,12 @@
 ### Hi there 👋
+<div align="center>
+<h1 align="center"> Hi 👋, I'm Thomas Harbert</h1>
 
+~ <
+
+<h3 align="center> I'm a passionate full stack dev with experience in technologies </h3>
+
+</div>
 <!--
 **tgharbert/tgharbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
