@@ -12,7 +12,7 @@
 I'm a full stack dev with a passion for building things, based in Austin, Texas 🤠
 - 🌱 I'm currently exploring Next's app router
 - 📚 Grinding Leetcode like my life depends on it
-- 🎥 When I'm AFK, I love making films
+- 🎥 When I'm AFK, I love making films, reading books, going outside
 
 <a id='connect'></a>
 ## Let's Connect:
@@ -34,7 +34,7 @@ I'm a full stack dev with a passion for building things, based in Austin, Texas 
 ---
 
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=tgharbert&theme=nord&show_icons=true' height='250px' width='60%'/>
+<!--   <img src='https://github-readme-stats.vercel.app/api?username=tgharbert&theme=nord&show_icons=true' height='250px' width='60%'/> -->
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tgharbert&size_weight=0.5&count_weight=0.5&theme=nord'  height='250px' width='35%' />
 </p>
 
