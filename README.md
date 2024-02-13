@@ -1,4 +1,4 @@
-### Howdy 👋
+### Howdy 👋 I'm Thomas
 <div align='center'>
 
 <a href='#aboutme'>about me</a> • <a href='#connect'>let's connect</a> • <a href='#techstack'>tech stack</a>
