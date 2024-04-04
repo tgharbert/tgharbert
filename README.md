@@ -9,10 +9,10 @@
 <a id='aboutme'></a>    
 ## About Me:
 
-I'm a full stack dev with a passion for building things, based in Austin, Texas 🤠
+I'm a full stack dev with a passion for building things and exploring new technology. I'm based in Austin, Texas 🤠
 - 🌱 I'm currently exploring Next's app router
 - 📚 Grinding Leetcode like my life depends on it
-- 🎥 When I'm AFK, I love making films, reading books, going outside
+- 🎥 When I'm AFK, I love making films, reading books, and exploring the natural world
 
 <a id='connect'></a>
 ## Let's Connect:
