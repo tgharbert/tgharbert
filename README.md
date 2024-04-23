@@ -15,6 +15,7 @@ I'm a full stack dev with a passion for building things and exploring new techno
 - 🌱 I'm currently exploring Next's app router
 - 📚 Grinding Leetcode like my life depends on it
 - 🎥 When I'm AFK, I love making films, reading books, and exploring the natural world
+- 📖 I'm currently reading: Killing Commendatore by Haruki Murakami
 
 <a id='connect'></a>
 ## Let's Connect:
