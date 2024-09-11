@@ -12,10 +12,10 @@ Howdy 👋 I'm Thomas
 ## About Me:
 
 I'm a full stack dev with a passion for building things and exploring new technology. I'm based in Austin, Texas 🤠
-- 🌱 I'm currently exploring Next's app router
+- 🌱 Tech I'm currently exploring: Go/HTMX
 - 📚 Grinding Leetcode like my life depends on it
 - 🎥 When I'm AFK, I love making films, reading books, and exploring the natural world
-- 📖 I'm currently reading: Killing Commendatore by Haruki Murakami
+- 📖 I'm currently reading: Notes from Underground by Fyodor Dostoevsky
 
 <a id='connect'></a>
 ## Let's Connect:
