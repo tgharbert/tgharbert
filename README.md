@@ -13,7 +13,6 @@ Howdy 👋 I'm Thomas
 
 I'm a full stack dev with a passion for building things and exploring new technology. I'm based in Austin, Texas 🤠
 - 🌱 Tech I'm currently exploring: Go/HTMX
-- 📚 Grinding Leetcode like my life depends on it
 - 🎥 When I'm AFK, I love making films, reading books, and exploring the natural world
 - 📖 I'm currently reading: Neuromancer by William Gibson
 
