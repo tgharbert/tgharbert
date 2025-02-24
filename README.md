@@ -30,7 +30,7 @@ I'm a full stack dev with a passion for building things and exploring new techno
 <a id='techstack'></a>
 ## 🛠️ Tech Stack
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=js,css,aws,express,next,react,ts,mongodb,tailwind,git,mysql,postgres,nodejs,nginx,supabase,' />
+  <img src='https://skillicons.dev/icons?i=ts,js,go,css,aws,express,next,react,htmx,mongodb,tailwind,git,mysql,postgres,nodejs,nginx,supabase,' />
 </p>
 
 ---
