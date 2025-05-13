@@ -1,5 +1,5 @@
 <h2 align='center'>
-Howdy 👋 I'm Thomas
+Howdy 👋 I'm Rett
 </h2>
 <div align='center'>
 
